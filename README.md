@@ -13,6 +13,7 @@
 ## 📊 Projects
 - Customer Segmentation using ML (KMeans, Hierarchical)
 - Telecom KPI Anomaly Detection (Time Series)
+- Digital Marketing Strategy
 - Order to Activation Pipeline (Multi-country ETL)
 
 ## 📫 Contact
