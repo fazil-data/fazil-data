@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Fazil 👋
 
-<!--
-**fazil-data/fazil-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Engineer | Telecom Analytics Specialist  
+📍 London, UK  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- SQL (MSSQL, Redshift)
+- Python (Pandas, Scikit-learn)
+- Snowflake, AWS (Lambda, S3)
+- Data Modelling, ETL/ELT
+- Power BI, Grafana, QuickSight
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Customer Segmentation using ML (KMeans, Hierarchical)
+- Telecom KPI Anomaly Detection (Time Series)
+- Order to Activation Pipeline (Multi-country ETL)
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/fazil-mohamed-22481268/
