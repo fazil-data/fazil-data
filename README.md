@@ -1,6 +1,6 @@
 # Hi, I'm Fazil 👋
 
-🚀 Data Engineer | Telecom Analytics Specialist  
+🚀 Data engineering & Analytics specialist  
 📍 London, UK  
 
 ## 🔧 Skills
